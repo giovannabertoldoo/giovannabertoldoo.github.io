@@ -1,0 +1,21 @@
+body {
+    background-color: #f0f0f0 /* ERRO: falta ponto e vírgula */;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #4a90e2;
+    color: white;
+    text-align: center;
+}
+
+button {
+    border-radius: 10px;
+    background-color: #f39c12;
+    color: white;
+    
+}
+
+button:hover {
+    background-color: #d35400;
+}
